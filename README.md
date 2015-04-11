@@ -13,3 +13,4 @@ Multichannel display from Thingspeak.com using Highcharts.com.
  
  The data is aliased (averaged?) in some capacity when it is too dense to display.
  
+![ThingSpeakMultichannel002](ScreenshotThingSpeakMultichannel002.png "ThingSpeakMultichannel002")
